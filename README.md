@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kaloso11
-- 👀 I’m interested in Machine Learning and Industrial Automation
-- 🌱 I’m currently learning Unsupervised Learning for Addiction studies
-- 💞️ I’m looking to collaborate on all projects based on both supervised and unsupervised learning as well as with Psychiatrists willing to provide patient data pertaining to drug and substance abuse
+- 👋 Hi, I’m @Kaloso
+- 👀 I’m an aspiring Machine Learning Researcher and Engineer
+- 🌱 I’m currently conducting research in Unsupervised Machine Learning for Substance Use Disorders and Brain-Computer Interface Experiments
+- 💞️ I’m looking to collaborate on all projects based on both supervised and unsupervised learning as well as with Psychiatrists willing to provide patient data pertaining to drug and substance use and disorder
 - 📫 How to reach me: kalosotlotleng@gmail.com or kaloso.tlotleng@studentmail.biust.ac.bw
 
 <!---
