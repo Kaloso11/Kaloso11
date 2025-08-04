@@ -3,7 +3,6 @@
 🎓 Machine Learning Researcher with a Master of Engineering in Mechatronics and Industrial Instrumentation
   Thesis title: "Correlating Substance Use Disorder Classifications from Clinical Assessments and Brain-Computer Interface Experiments Using Unsupervised Machine Learning"
 🧠 Specializing in **unsupervised learning**, **brain-computer interface (BCI)**, and **SUD diagnostics**  
-📍 Based in Botswana | Open to international collaborations
 ---
 ## 🔬 Research Focus
 - 🧠 **EEG Signal Processing** for cognitive task recognition and disorder detection
