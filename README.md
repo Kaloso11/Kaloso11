@@ -1,21 +1,36 @@
 # 👋 Hi, I’m Kaloso
 
-🎓 Machine Learning Researcher with a Master of Engineering in Mechatronics and Industrial Instrumentation
+🎓 PhD Student and Machine Learning Researcher in Computational Neuroscience
   Thesis title: "Correlating Substance Use Disorder Classifications from Clinical Assessments and Brain-Computer Interface Experiments Using Unsupervised Machine Learning"
-🧠 Specializing in **unsupervised learning**, **brain-computer interface (BCI)**, and **SUD diagnostics**  
+🧠 Machine Learning Researcher passionate about developing Artificial Intelligence methods to understand brain cognition    
 ---
-## 🔬 Research Focus
-- 🧠 **EEG Signal Processing** for cognitive task recognition and disorder detection
-- 🧪 **Unsupervised Machine Learning** to uncover latent patterns in SUDs (Substance Use Disorders)
-- 🧬 **Neuropsychological Applications** involving depression, ADHD, bipolar disorder
----
-## 🤝 Let’s Collaborate
+## 🔬 My research sits at the intersection of:
+ **Computational, Cognitive and Behavioral Neuroscience**
+ **Brain-Computer Interfaces** 
+ **Machine Learning**
+ **Mental Health Disorders**
 
-I’m actively looking to collaborate on:
-- Substance use and mental health datasets
-- Cognitive neuroscience projects
-- ML/AI solutions for real-world healthcare and education
+ My previous work focused on applying unsupervised machine learning to clinical assessment and brain signal data to analyze the severity of substance use disorders, resulting in two peer-reviewed publications. I enjoy building interpretable machine learning models that help uncover meaningful patterns in neural and behavioural data.
 ---
+## 🚀 Current Projects
+
+- EEG-based biomarkers for substance use disorders
+- Machine learning models for neural decoding
+- Computational neuroscience research
+- Brain-computer interface applications
+- ML for neuropsychiatric and neurodegenerative diseases
+---
+## 🤝 Open to Collaborate
+
+I'm interested in collaborating on research involving:
+
+- Computational Neuroscience
+- Brain-Computer Interfaces
+- Machine Learning
+- Deep Learning
+- EEG Analysis
+- Mental Health Research
+
 ## 📫 How to Reach Me
 
 - 📧 **kalosotlotleng@gmail.com**  
