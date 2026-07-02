@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kaloso
 
 🎓 PhD Student and Machine Learning Researcher in Computational Neuroscience
-  Thesis title: "Correlating Substance Use Disorder Classifications from Clinical Assessments and Brain-Computer Interface Experiments Using Unsupervised Machine Learning"
+  
 🧠 Machine Learning Researcher passionate about developing Artificial Intelligence methods to understand brain cognition    
 ---
 ## 🔬 My research sits at the intersection of:
@@ -12,6 +12,7 @@
 
  My previous work focused on applying unsupervised machine learning to clinical assessment and brain signal data to analyze the severity of substance use disorders, resulting in two peer-reviewed publications. I enjoy building interpretable machine learning models that help uncover meaningful patterns in neural and behavioural data.
 ---
+
 ## 🚀 Current Projects
 
 - EEG-based biomarkers for substance use disorders
